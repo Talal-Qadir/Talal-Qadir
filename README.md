@@ -1,67 +1,94 @@
 # Hi there, I'm Talal! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast dedicated to building meaningful projects and contributing to the tech community.
+**Backend-Focused Software Engineer | Python & Django Developer**
+
+I build scalable RESTful APIs and full-stack web applications, with a focus on clean backend architecture, secure authentication, and reliable, production-ready systems.
+
+---
 
 ## 🚀 About Me
 
-I'm deeply invested in creating elegant solutions to complex problems. With experience across multiple domains, I thrive in collaborative environments where I can learn, innovate, and make a real impact. I'm always exploring new technologies and best practices to improve my craft.
+I'm a backend-focused engineer with hands-on experience building and maintaining production APIs using **Django** and **Django REST Framework**, integrated with **React.js** front ends. I care about writing efficient, secure, and maintainable code — from database schema design to authentication systems to cloud deployment.
+
+I've delivered two full-stack production systems (a task management platform and an HRMS), and I bring additional experience in AI-model testing, DevOps troubleshooting, and production support from my time supporting live systems on Azure.
+
+📍 Based in Lahore, Pakistan | Currently: Django Backend Developer Intern @ Zemotify
+
+---
 
 ## 💻 Technical Skills
 
 ### Languages
-- **Backend**: TypeScript, Python, JavaScript, Go
-- **Frontend**: React, Vue.js, HTML/CSS
-- **Other**: SQL, Shell scripting
+- **Backend**: Python, JavaScript
+- **Frontend**: JavaScript (ES6+), HTML5, CSS3
+- **Mobile (Familiar)**: Dart / Flutter (UI & navigation basics)
 
-### Tools & Frameworks
-- **Frameworks**: Node.js, FastAPI, Django
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **DevOps**: Docker, Kubernetes, GitHub Actions
-- **Cloud**: AWS, Google Cloud Platform
+### Frameworks & Libraries
+- **Backend**: Django, Django REST Framework (DRF), Celery
+- **Frontend**: React.js, Tailwind CSS
+- **API Integration**: RESTful API design, JWT & session-based authentication
+
+### Databases
+- MySQL, PostgreSQL, Azure Cosmos DB
+
+### Cloud & DevOps
+- Microsoft Azure, AWS, Azure Service Bus, Git, GitHub, Jenkins, CI/CD Pipelines, Jira
+
+### Practices
+- Agile/Scrum, Software Development Lifecycle (SDLC), AI Model Testing & Monitoring
+
+---
 
 ## 📌 Featured Projects
 
-### [Project 1](link-to-repo)
-A brief description of what this project does and the technologies used.
+### 🗂️ [Task Management Platform](link-to-repo)
+A full-stack task management system built with Django and React.js, featuring real-time task tracking, role-based access control, and automated reporting for teams.
 
-### [Project 2](link-to-repo)
-A brief description of what this project does and the technologies used.
+### 🧑‍💼 [HRMS (Human Resource Management System)](link-to-repo)
+A production-grade HR management platform covering employee records, role-based permissions, and automated workflows — built with Django REST Framework and a React.js front end.
 
-### [Project 3](link-to-repo)
-A brief description of what this project does and the technologies used.
+### 💬 [PagePilot – Facebook Inbox & Bulk Messaging Dashboard](link-to-repo)
+A Django-based SaaS dashboard that connects Facebook Pages, unifies customer conversations into a single inbox, and supports replying and bulk messaging to existing conversations via the Meta Messenger Platform.
+
+---
 
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talal-Qadir&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-Qadir&layout=compact&theme=radical)
+
+---
 
 ## 🌱 Currently Learning
 
 - Advanced system design patterns
-- Cloud-native architecture
-- [Your learning focus]
+- Cloud-native architecture on Azure & AWS
+- Scaling Django applications for high-traffic production use
+
+---
 
 ## 💬 Let's Connect!
 
-I'm always interested in collaborating on exciting projects or just chatting about technology. Feel free to reach out:
+I'm always open to backend/full-stack opportunities and interesting collaborations. Feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter/X**: [@YourHandle](https://twitter.com/yourhandle)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **Email**: [qadirmuhammadtalal@gmail.com](mailto:qadirmuhammadtalal@gmail.com)
+- **LinkedIn**: [Muhammad Talal Qadir](https://linkedin.com/in/Muhammad-Talal-Qadir)
+- **GitHub**: [Talal-Qadir](https://github.com/Talal-Qadir)
+- **Portfolio**: [muhammadtalalqadirportfolio.site](https://muhammadtalalqadirportfolio.site)
+
+---
 
 ## 📈 Goals
 
-- Contribute more to open-source projects
-- Build products that help solve real-world problems
-- Share knowledge through blogs and technical articles
-- Grow as a full-stack developer
+- Contribute more to open-source Python/Django projects
+- Build backend systems that solve real business problems at scale
+- Deepen expertise in cloud-native and distributed system design
+- Grow into a senior full-stack / backend engineering role
 
 ---
 
 <div align="center">
   <p><strong>⭐ If you find my projects interesting, feel free to star them!</strong></p>
-  
+
   ![Profile Views](https://komarev.com/ghpvc/?username=Talal-Qadir&color=blueviolet)
 </div>
