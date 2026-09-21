@@ -12,7 +12,7 @@ I'm a backend-focused engineer with hands-on experience building and maintaining
 
 I've delivered two full-stack production systems (a task management platform and an HRMS), and I bring additional experience in AI-model testing, DevOps troubleshooting, and production support from my time supporting live systems on Azure.
 
-📍 Based in Lahore, Pakistan | Currently: Django Backend Developer Intern @ Zemotify
+📍 Based in Lahore, Pakistan | Currently: Django Backend Developer @ Zemotify
 
 ---
 
